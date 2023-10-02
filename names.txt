@@ -1,0 +1,9 @@
+Shikhar Malik
+wp
+:wq
+:wp
+ZZ
+p
+:qa!
+:q!a
+
